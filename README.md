@@ -1,8 +1,32 @@
 # Running Dashboard
 
-## Project Goal
+# Project Overview
 
-To analyse personal running data exported from Apple Health and create an interactive dashboard showing training trends and performance metrics.
+This project analyses personal running data exported from Apple Health to identify trends in training behaviour and performance over time. The aim was to gain practical experience in data extraction, cleaning, analysis and visualisation while creating a reusable dashboard for ongoing tracking.
+
+The project involved extracting over 170 running workouts from a 1 GB Apple Health XML export using Python, transforming the data into CSV format, and building an interactive dashboard in Microsoft Excel using Pivot Tables and charts.
+
+The dashboard explores running activity between 2022 and 2026, highlighting patterns in training frequency, seasonality and running habits. Key findings include peak activity in 2024, a preference for Sunday running sessions, and reduced activity during winter months due to seasonal factors and injury.
+
+This project demonstrates the end-to-end analytics workflow: data extraction, transformation, validation, analysis and communication of insights.
+
+## Tools Used
+Python
+XML
+CSV
+Excel
+Pivot Tables
+
+## Workflow
+Apple Health Export
+        ↓
+Python Extraction
+        ↓
+CSV
+        ↓
+Excel Cleaning
+        ↓
+Dashboard
 
 ## Metrics
 
