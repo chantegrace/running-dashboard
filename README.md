@@ -43,10 +43,17 @@ Dashboard
 - Average Pace
 
 ## Visualisations
+## Dashboard
 
-- Distance by Month
-- Runs by Weekday
-- Distance Over Time
+![Dashboard](screenshots/dashboard_tab_screenshot.png)
+
+## Analysis
+
+![Analysis](screenshots/analysis_tab_screenshot.png)
+
+## Python Extraction
+
+![Python](screenshots/extract_py_screenshot.png)
 
 ## Future Development
 
